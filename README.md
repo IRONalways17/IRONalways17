@@ -2,7 +2,7 @@
 - 👀 I’m interested in Exploring LIFE
 - 🌱 I’m currently learning: DSA, ways to talk to computer
 - 💞️ I’m looking to collaborate on Everything that involves new ideas and research
-- 📫 How to reach me- Nobody can but can communicate over https://www.linkedin.com/in/rampyaaryan17/
+- 📫 How to reach me- Nobody can, but can communicate over internet
 - 😄 Pronouns: Oyye
 - ⚡ Fun fact: I help Plants make Food 
                                       basically give them CO2-> (photosynthesis)-> Glucose
