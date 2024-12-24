@@ -8,7 +8,7 @@
 
   <img src="https://cdn.dribbble.com/userupload/11564851/file/original-765ffbce07dd5a679f0ce0d416ccb1d1.gif" />
 
-<!---
+
 
 ### 💻 My Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +17,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-IRONalways17/IRONalways17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
