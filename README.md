@@ -6,7 +6,7 @@
 - 😄 Pronouns: Oyye
 - ⚡ Fun fact: I help Plants make Food basically give them CO2-> (photosynthesis)-> Glucose
 
-  <img src="https://cdn.dribbble.com/userupload/11564851/file/original-765ffbce07dd5a679f0ce0d416ccb1d1.gif" />
+  <img src="https://cdn.dribbble.com/users/1342032/screenshots/2967135/rocket-launch.gif"/>
 
 
 
