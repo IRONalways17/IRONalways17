@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Balancing a Robot in CoppeliaSim (LQR & PID) for eYRC 2024-25**
+- 🔭 Currently working on **Self New Thoughts to make it all Real**
 - 🛰️ Interested in **Space Technologies, Starship & Human Expansion to Mars & Moon**
 - 🏆 Preparing for **STEP Internship 2025 & GATE CS/IT 2025**
 - 🌱 Mastering **DSA & Development** before **May 2025**
@@ -45,19 +45,19 @@
 ---
 
 ## 📊 GitHub Stats
-![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryanis&show_icons=true&theme=tokyonight)
+![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRONalways17&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanis&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRONalways17&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-Aaryanis-181717?style=for-the-badge&logo=github)](https://github.com/Aaryanis)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-IRONalways17-181717?style=for-the-badge&logo=github)](https://github.com/IRONalways17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rampyaaryan17/)
 
 ---
 
 ### Thanks for stopping by! 😊✨
-![Visitor Badge](https://komarev.com/ghpvc/?username=Aaryanis&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=IRONalways17&color=green)
 
 > 🚀 "Dream big, work hard, and make it happen!"
