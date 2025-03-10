@@ -31,7 +31,7 @@ jobs:
           plugin_calendar_limit: 1              # Show last year of contributions
           
           plugin_repositories: yes              # Show repositories info
-          plugin_repositories_pinned: 0         # Show top 3 pinned repositories
+          plugin_repositories_pinned: 3        # Show top 3 pinned repositories
           
           plugin_stars: yes                     # Show starred repositories count
           
