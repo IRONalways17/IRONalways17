@@ -61,3 +61,6 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=IRONalways17&color=green)
 
 > 🚀 "Dream big, work hard, and make it happen!"
+![Aaryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IRONalways17&theme=github-dark)
+
+
