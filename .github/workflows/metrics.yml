@@ -21,7 +21,7 @@ jobs:
           # 🔥 Add Additional Features Below
           plugin_languages: yes                 # Show most used languages
           plugin_languages_ignored: html, css   # Ignore frontend languages (optional)
-          plugin_languages_limit: 6             # Show top 6 languages
+          plugin_languages_limit: 10             # Show top 6 languages
 
           plugin_habits: yes                    # Commit activity habits
           plugin_habits_from: 200               # Count from last 200 commits
@@ -31,7 +31,7 @@ jobs:
           plugin_calendar_limit: 1              # Show last year of contributions
           
           plugin_repositories: yes              # Show repositories info
-          plugin_repositories_pinned: 3         # Show top 3 pinned repositories
+          plugin_repositories_pinned: 0         # Show top 3 pinned repositories
           
           plugin_stars: yes                     # Show starred repositories count
           
