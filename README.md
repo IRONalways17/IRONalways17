@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🔭 Currently working on **Self New Thoughts to make it all Real**
 - 🛰️ Interested in **Space Technologies, Starship & Human Expansion to Mars & Moon**
-- 🏆 Preparing for **STEP Internship 2025 & GATE CS/IT 2025**
+- 🏆 Preparing for **LIFE**
 - 🌱 Mastering **DSA & Development** before **May 2025**
 - 🎯 Always eager to explore **AI, ML, and Automation in Robotics**
 - 💡 Passionate about **Open Source, Web Development & Problem Solving**
