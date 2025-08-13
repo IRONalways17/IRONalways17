@@ -128,4 +128,8 @@
   <em>Building code, crafting impact — all in black & white.</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IRONalways17/NLP/main/Melo.gif" alt="Melo GIF (monochrome)" />
+</p>
+
 
