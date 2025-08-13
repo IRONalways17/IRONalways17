@@ -14,6 +14,10 @@
     </circle>
   </svg>
 
+  <!-- Cool space animation -->
+  <img height="120" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Terminal" />
+  <img height="120" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Terminal" />
+
 </div>
 
 <br/>
@@ -81,6 +85,9 @@
       <animate attributeName="cx" values="0;100;0" dur="6s" repeatCount="indefinite"/>
     </circle>
   </svg>
+  
+  <!-- Cool coding animation -->
+  <img height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 </div>
 
 ## 🛰️ Projects
@@ -126,6 +133,9 @@
       <animate attributeName="cx" values="100;0;100" dur="6s" repeatCount="indefinite"/>
     </circle>
   </svg>
+  
+  <!-- Cool matrix animation -->
+  <img height="100" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Matrix" />
 </div>
 
 ## 🎓 Education
@@ -148,6 +158,11 @@
 
 ## 🧠 Tech Stack
 
+<div align="center">
+  <!-- Cool tech animation -->
+  <img height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech" />
+</div>
+
 <div>
   <!-- Monochrome word cloud (no icons to avoid colors) -->
   <p>
@@ -168,6 +183,9 @@
 
   <!-- Starry-night style activity graph (monochrome) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IRONalways17&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true" alt="Contribution Graph" />
+  
+  <!-- Cool space animation -->
+  <img height="100" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Space" />
 
 </div>
 
@@ -181,6 +199,11 @@
 </div>
 
 ## 🤝 Let's Connect
+
+<div align="center">
+  <!-- Cool connection animation -->
+  <img height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Connect" />
+</div>
 
 <div>
   <p><b>GitHub</b>: https://github.com/IRONalways17</p>
