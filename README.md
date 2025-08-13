@@ -1,67 +1,156 @@
 ### Hey there! 👋 I'm **Aaryan Choudhary** 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFD700&size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer!;Space+Exploration+Enthusiast+%F0%9F%9A%80;Passionate+about+Robotics+%E2%98%95;Always+learning+new+things+%F0%9F%92%AA)
+<div align="center">
 
----
+  <!-- Typing animation header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Aaryan+Choudhary+%E2%80%94+Ambitious+Automator;Automation+%7C+AI+%7C+Machine+Learning+%7C+Full+Stack+%7C+Space+Tech;Turning+coffee+into+code+and+ideas+into+reality+%F0%9F%9A%80" alt="Typing SVG" />
 
-## 🚀 About Me
-- 🔭 Currently working on **Self New Thoughts to make it all Real**
-- 🛰️ Interested in **Space Technologies, Starship & Human Expansion to Mars & Moon**
-- 🏆 Preparing for **LIFE**
-- 🌱 Mastering **DSA & Development** before **May 2025**
-- 🎯 Always eager to explore **AI, ML, and Automation in Robotics**
-- 💡 Passionate about **Open Source, Web Development & Problem Solving**
+  <!-- Subtle animated divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0d1117" alt="divider" />
 
----
+  <!-- Space + Octocat accents -->
+  <img height="120" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat" />
+  <img height="120" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat" />
+  <img height="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-## 🛠️ Tech Stack
+</div>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+<br/>
 
-### 🖥️ Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🌌 About Me
 
-### 🤖 Robotics & Automation
-![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-FF6600?style=for-the-badge&logo=robots&logoColor=white)
-![LQR & PID](https://img.shields.io/badge/LQR%20%26%20PID-Control-blue?style=for-the-badge)
+- **Name**: Aaryan Choudhary — Ambitious Automator  
+- **Passion**: Automation, AI, Machine Learning, Full Stack Development, Space Tech, Remote Sensing  
+- **Tagline**: "Turning coffee into code and ideas into reality 🚀"
 
-### 📚 Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=111111" alt="divider" />
+</div>
 
----
+## 🚀 Experience
 
-## 💡 Soft Skills
-- 🔥 **Problem Solver** & **Logical Thinker**
-- 🤝 **Team Player** & **Collaborator**
-- 🎤 **Good Communicator**
-- 🕵️ **Curious & Adaptive Learner**
+- Summer Intern — **DRDO**  
+- Summer Trainee — **ISRO**  
+- Summer Intern — **Celebal Tech**  
+- **Data Science (Python)**  
+- **Full Stack Development — MERN Stack**  
+- **Java Development**  
+- **Remote Sensing & Data Analysis (Python)**  
+- Developer Trainee — **Smartbridge**  
+- Student Ambassador — **Codecademy**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0d1117" alt="divider" />
+  <img height="110" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="terminal" />
+</div>
 
-## 📊 GitHub Stats
-![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IRONalways17&show_icons=true&theme=tokyonight)
+## 🛰️ Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRONalways17&layout=compact&theme=tokyonight)
+- **Quiz Master App** — Python, Vue.js, React, Flask, MongoDB, API Keys, Transformers, Vector Databases  
+- **Web-Based Games**  
+- **Access Web Cam**  
+- **Donation-Collecting Web App**  
+- **AI Agentic + LLM Assistant**  
+- **Google Solution Challenge (SDGs)**  
+- **ML Prediction Competitions** — Kaggle, AI, ML, NLP
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=111111" alt="divider" />
+</div>
 
-## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-IRONalways17-181717?style=for-the-badge&logo=github)](https://github.com/IRONalways17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rampyaaryan17/)
+## 🌟 Open Source Contributions
 
----
+- **HacktoberFest**  
+- **GitHub-hosted personal projects**
 
-### Thanks for stopping by! 😊✨
-![Visitor Badge](https://komarev.com/ghpvc/?username=IRONalways17&color=green)
+## ⚡ Hackathons
 
-🚀 "Dream big, work hard, and make it happen!"
-![Aaryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IRONalways17&theme=github-dark)
+- Bajaj **HackRx**  
+- **Unstop** challenges  
+- **Hack⚡skill** competitions
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0d1117" alt="divider" />
+  <img height="120" src="https://octodex.github.com/images/jetpacktocat.png" alt="Octocat" />
+</div>
+
+## 🎓 Education
+
+- **B.E. in Computer Science & Engineering** — MBM University, Jodhpur  
+- **B.Sc. in Data Science** — IIT Madras  
+- **Senior Secondary Education (Class XII)** — CBSE  
+- **Secondary Education (Class X)** — CBSE
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=111111" alt="divider" />
+</div>
+
+## 🧠 Tech Stack
+
+<div align="center">
+  
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+  
+  <!-- Web/MERN -->
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,mongodb" />
+  
+  <!-- AI/ML & Data -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IRONalways17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=79c0ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=IRONalways17&theme=tokyonight&hide_border=true&background=0d1117&fire=DD2727&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRONalways17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+
+  <!-- Starry-night style activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IRONalways17&bg_color=0d1117&color=ffffff&line=2f81f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=2&color=0d1117" alt="divider" />
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="https://github.com/IRONalways17" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  
+  <!-- Replace with your LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <!-- Replace with your email -->
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Footer wave divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:0d1117&text=&fontColor=ffffff" alt="wave" />
+  
+  <sub style="color:#ffffff;">Built with ❤️ for dark skies, bright ideas, and elegant code.</sub>
+</div>
 
 
 
