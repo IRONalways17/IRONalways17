@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I%27m+Aaryan+—+I+build+things+with+code+%F0%9F%9A%80" alt="Hi, I'm Aaryan — I build things with code 🚀 (white on black typing animation)" />
+  <img src="https://raw.githubusercontent.com/IRONalways17/NLP/main/gifd.gif" alt="Intro GIF (monochrome)" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1500&pause=800&color=000000&background=FFFFFF&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider (animated ASCII)" />
+  <img src="./assets/typing-intro.svg" alt="Hi, I'm Aaryan — I build things with code 🚀 (white on black typing animation)" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider-white.svg" alt="divider (white)" />
 </p>
 
 <p align="center">
@@ -15,7 +19,7 @@
 - **Tagline**: "Building code, crafting impact — all in black & white."
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=$+echo+%22Ambitious+Automator%22;%20$+whoami:+IRONalways17;%20$+git+commit+-m+%22Crafting+impact%22" alt="terminal typing (white on black)" />
+  <img src="./assets/divider-black.svg" alt="divider (black)" />
 </p>
 
 <p align="center">
@@ -49,7 +53,7 @@
 - **ML Prediction Competitions** — Kaggle, AI, ML, NLP
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=900&lines=while(true)+%7B+code();+learn();+ship();+%7D" alt="animated code loop (black on white)" />
+  <img src="./assets/divider-white.svg" alt="divider (white)" />
 </p>
 
 <p align="center">
@@ -68,7 +72,7 @@
 - **Hack⚡skill Competitions**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1500&pause=800&color=000000&background=FFFFFF&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider (animated ASCII)" />
+  <img src="./assets/divider-white.svg" alt="divider (white)" />
 </p>
 
 <p align="center">
@@ -89,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IRONalways17&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF" alt="Streak (white text on black)" />
+  <img src="https://streak-stats.demolab.com?user=IRONalways17&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF" alt="Streak (white text on black)" />
 </p>
 
 <p align="center">
@@ -105,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=const+universe+=+%22black%22;%20const+stars+=+%22white%22;%20render(starry_night);" alt="space-themed terminal typing (white on black)" />
+  <img src="./assets/divider-black.svg" alt="divider (black)" />
 </p>
 
 <p align="center">
