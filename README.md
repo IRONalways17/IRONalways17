@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" alt="Transformers" />
