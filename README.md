@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IRONalways17/NLP/main/typing-intro.svg" alt="Hi, I'm Aaryan — I build things with code 🚀 (typing animation)" />
+  <img src="https://raw.githubusercontent.com/IRONalways17/NLP/main/typing-intro.svg" alt="Hi, I'm Aaryan — I build things with code (typing animation)" />
 </p>
 
 <p align="center">
@@ -57,6 +57,10 @@
   <img src="https://img.shields.io/badge/Vector%20DBs-000000?style=for-the-badge&logoColor=FFFFFF" alt="Vector DBs" />
   <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FFFFFF" alt="GCP" />
+  <img src="https://img.shields.io/badge/AI%20Agent%2FAssistant-000000?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="AI Agent/Assistant(Automation)" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" />
 </p>
 
